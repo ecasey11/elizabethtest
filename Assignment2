@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Elizabeth Casey - Assignment 2</title>
+</head>
+<body>
+	<h1>Elizabeth's Life in Pictures</h1>
+
+	<figure>
+		<img src="IMAGES/Frustration.jpg" alt="Elizabeth unreasonably frustrated after losing at Mario Kart, looking ridiculous with ice wrapped on her shoulder" width="500px" height="750px">
+		<figcaption>I'm generally not too competitive, unless I'm playing Mario Kart.</figcaption>
+	</figure>
+
+	<figure>
+		<img src="IMAGES/SumoCostume.jpg" alt="Elizabeth in sumo wrestler costume for Halloween 2013" width="500px" height="750px">
+		<figcaption>I always wanted to be a sumo wrestler for Halloween, so my friend and I finally did it our sophomore year of high school. Definitely my favorite costume of all time.</figcaption>
+	</figure>
+
+	<figure>
+		<img src="IMAGES/HarassingColin.jpg" alt="Elizabeth trying to give her little brother a kiss, but he's trying to get away" width="500px" height="750px">
+		<figcaption>I was trying to give my little brother a kiss at my sister's wedding in Bermuda, but he was definitely not interested.</figcaption>
+	</figure>
+
+	<figure>
+		<img src="IMAGES/WhattodowithmyHands.jpg" alt="Elizabeth feeling awkward, not knowing what to do with her hands while being photographed" width="500px" height="750px">
+		<figcaption>I never know what to do with my hands in pictures!</figcaption>
+	</figure>
+
+	<figure>
+		<img src="IMAGES/MomandSisters.jpg" alt="Elizabeth with her mom and older sisters at sister's wedding in Bermuda" width="500px" height="750px">
+		<figcaption>My mom, sisters and me at my oldest sister's wedding in May in Bermuda.</figcaption>
+	</figure>
+	
+	<a href=“templates/Assignment2.html”>Go to part 2!</a>
+</body>
+</html>
